@@ -1,6 +1,6 @@
 # Summer-Internship
 
-To upload your code: (apologies in advance if you already know how to do this, I was under the impression you might not have too much experience using GitHub? Just ignore this if you already know how to do it.)
+To upload your code:
 
 Step 1: Navigate to a new folder where you want to store the code for github
 
@@ -37,5 +37,3 @@ Step 2: Run "git merge <branch_name>" to merge <branch_name> to master.
 Step 3: Run "git commit -m 'merge <branch_name> to master'"
 
 Step 4: Run "git push"
-
-Note: Repository is currently Public. I named it summer internship so other people won't be able to find this on google. I'd highly recommend we move on to a private repository!
