@@ -2,7 +2,7 @@
 
 To upload your code:
 
-  Step 1: Navigate to a new folder where you want to store the code for github
+      Step 1: Navigate to a new folder where you want to store the code for github
 
   Step 2: Run "git clone git@github.com:tsunhenry/Summer-Internship.git", might need SSH for it. There are plenty tutorials on how to set this up.
 
